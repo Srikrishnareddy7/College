@@ -1,2 +1,3 @@
-# College
-The new repository
+# College project
+This is new repository
+Author - Srikrishna reddy
